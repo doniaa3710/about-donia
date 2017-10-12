@@ -18,13 +18,14 @@
 
 |Period| Class    |
 |---------- |:-----------|
-|PERIOD TWO | US History 5 |
-|PERIOD THREE| AP English 5|
-|PERIOD FOUR| Pre-Calc Honors|
-|PERIOD FIVE| Spanish 5|
-|PERIOD SIX| Physics|
-|PERIOD SEVEN| Software Engineering 5|
-|PERIOD EIGHT|Lunch
+|ONE| SERVICE
+| TWO | US History 5 |
+| THREE| AP English 5|
+| FOUR| Pre-Calc Honors|
+| FIVE| Spanish 5|
+| SIX| Physics|
+| SEVEN| Software Engineering 5|
+| EIGHT|Lunch|
 
 
 ---
@@ -37,7 +38,14 @@ People judge me alot, and I hate it. I know how to control myself within my surr
 but some don't and it's totally fine. That's why I cope with their 
 and try to help them if they need it. I may not be great in every aspect in life, including school, but I try to find ways to cope with it knowing my limitations.
 
-
+I have traveled to many places including:
+<ul>
+    <li>Egypt</li>
+     Including both Cairo and Alexandria of course!
+    <li>Orlando, Florida</li>
+    <li>Poughkeepsie, New York</li>
+    <li>Syracuse, New York</li>
+</ul>
 Yup well that is me, Donia Abdelhalim! 
 
 Hope you enjoyed my all about me. 
