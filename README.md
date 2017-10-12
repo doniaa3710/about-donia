@@ -3,7 +3,7 @@
 #### High School of Telecommunication Arts and Technology   
 
 
-![PORTFOLIO](https://sites.google.com/a/hstat.org/doniaa3710sep11/)
+[PORTFOLIO](https://sites.google.com/a/hstat.org/doniaa3710sep11/)
 
 
 ### **School Schedule**
