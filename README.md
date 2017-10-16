@@ -26,10 +26,10 @@
 
 
 I am a horrible test taker due to my test anxiety. I love things that people think are weird like taking walks alone, spending time with myself and exploring new ways to interact with different groups of people.
-My anxiety gets to me alot, but I am a man-made girl striving on my own. 
+My anxiety gets to me a lot, but I am a man-made girl striving on my own. 
 
 
-People judge me alot, and I hate it. I know how to control myself within my surroundings,
+People judge me a lot, and I hate it. I know how to control myself within my surroundings,
 but some don't and it's totally fine. That's why I cope with theirs 
 and try to help them if they need it. I may not be great in every aspect in life, including school, but I try to find ways to cope with it knowing my limitations.
 
